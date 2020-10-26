@@ -1,0 +1,13 @@
+locustfile = locust_test_load.py
+worker = true
+master-host = 127.0.0.1
+master-port = 5557
+
+
+
+
+
+
+
+
+

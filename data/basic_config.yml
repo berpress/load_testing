@@ -1,0 +1,9 @@
+locustfile = locust_test_load.py
+host =  http://automationpractice.com
+users = 10
+spawn-rate = 5
+headless = true
+run-time = 15s
+logfile = run.log
+
+
